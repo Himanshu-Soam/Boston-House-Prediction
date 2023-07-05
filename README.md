@@ -1,7 +1,7 @@
 # Boston House Prediction
 
 - Use various regression models
-- Assumptions of regression problem
+- Assumptions of regression method
 
 
 ## Acknowledgement
